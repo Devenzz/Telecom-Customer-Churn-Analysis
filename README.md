@@ -4,7 +4,8 @@ A complete end-to-end **Customer Churn Analysis** built using **Power BI**, focu
 This project includes professional dashboards, data modeling, key insights, and actionable recommendations based on real customer behavior patterns.
 
 ---
-![Dashboard Preview]<img width="1258" height="709" alt="Screenshot 2025-10-29 233059" src="https://github.com/user-attachments/assets/1990e963-88d6-4093-996d-414f7a2eb23b"/>
+## 📊 Dashboard Preview
+<img width="1258" height="709" alt="Screenshot 2025-10-29 233059" src="https://github.com/user-attachments/assets/1990e963-88d6-4093-996d-414f7a2eb23b"/>
 
 
 
